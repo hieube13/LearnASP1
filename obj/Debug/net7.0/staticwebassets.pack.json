@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\code C#\\ASP.NET\\HelloASP\\wwwroot\\1.txt",
+      "PackagePath": "staticwebassets\\1.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HelloASP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HelloASP.props",
+      "PackagePath": "build\\HelloASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HelloASP.props",
+      "PackagePath": "buildMultiTargeting\\HelloASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HelloASP.props",
+      "PackagePath": "buildTransitive\\HelloASP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

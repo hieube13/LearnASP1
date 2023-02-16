@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JOoFuypg1oTlk1KheIp2ELYwfzOeHvP2GlfEkFwMIvg=",
+  "Source": "HelloASP",
+  "BasePath": "_content/HelloASP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelloASP\\wwwroot",
+      "Source": "HelloASP",
+      "ContentRoot": "F:\\code C#\\ASP.NET\\HelloASP\\wwwroot\\",
+      "BasePath": "_content/HelloASP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\code C#\\ASP.NET\\HelloASP\\wwwroot\\1.txt",
+      "SourceId": "HelloASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\code C#\\ASP.NET\\HelloASP\\wwwroot\\",
+      "BasePath": "_content/HelloASP",
+      "RelativePath": "1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.txt"
+    }
+  ]
+}
